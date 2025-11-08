@@ -3,3 +3,5 @@
 -> Download dvc
 -> Create s3 Folder
 -> Now add Data to dvc
+-> Now dvc commit
+-> Now dvc push
