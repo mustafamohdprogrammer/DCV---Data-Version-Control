@@ -12,6 +12,9 @@ df = pd.DataFrame(data)
 new_row_loc = {'Name' : 'David', 'Age' : 28, 'City' : 'Houston'}
 df.loc[len(df.index)] = new_row_loc
 
+new_row_loc2 = {'Name' : 'Dave', 'Age' : 29, 'City' : 'Houston'}
+df.loc[len(df.index)] = new_row_loc2
+
 
 data_dir = 'data'
 if not os.path.exists(data_dir):
