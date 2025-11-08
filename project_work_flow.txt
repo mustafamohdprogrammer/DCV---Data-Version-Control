@@ -1,1 +1,5 @@
 -> First Create a sample dataset - File name code.py
+-> Push the updates into git
+-> Download dvc
+-> Create s3 Folder
+-> Now add Data to dvc
