@@ -5,3 +5,6 @@
 -> Now add Data to dvc
 -> Now dvc commit
 -> Now dvc push
+-> git checkout "id of version where you wanna roll back"
+-> dvc pull - To update the changes
+-> git checkout main - to get back the final version
